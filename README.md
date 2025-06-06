@@ -17,7 +17,8 @@ Bên cạnh đó, hệ thống còn tích hợp cảm biến bụi hoặc camera
 
 ## 🔧 Sơ đồ hoạt động hệ thống
 
-(Bạn có thể tạo một sơ đồ mới phù hợp với dự án này hoặc sửa lại sơ đồ cũ. Nếu chưa có, có thể bỏ dòng này hoặc để placeholder.)
+![image](https://github.com/user-attachments/assets/cc02e3cc-d056-4e08-beaf-97ccb1f1e576)
+
 
 ![Sơ đồ hệ thống giám sát pin mặt trời](assets/solar_system_diagram.png)
 _Sơ đồ khối minh họa luồng dữ liệu và các thành phần chính của hệ thống._
